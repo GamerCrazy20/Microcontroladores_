@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F690 -DL -O11111114 -fo4 -N"C:\Users\alber\OneDrive\Documentos\Code\Micro\P2A1\microCPro\P2A1.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\alber\OneDrive\Documentos\Code\Micro\P2A1\microCPro\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "P2A1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_ADC_A_B.mcl"	 
+hint: 0	1139	Available RAM: 240 [bytes], Available ROM: 4096 [bytes]	 
+diagnostics: 0	122	Compilation Started	P2A1.c
+diagnostics: 89	123	Compiled Successfully	P2A1.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+hint: 0	1144	Used RAM (bytes): 11 (5%)  Free RAM (bytes): 229 (95%)	Used RAM (bytes): 11 (5%)  Free RAM (bytes): 229 (95%)
+hint: 0	1144	Used ROM (program words): 237 (6%)  Free ROM (program words): 3859 (94%)	Used ROM (program words): 237 (6%)  Free ROM (program words): 3859 (94%)
+diagnostics: 0	125	Project Linked Successfully	P2A1.mcppi
+diagnostics: 0	128	Linked in 0 ms	 
+diagnostics: 0	129	Project 'P2A1.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 12 Mar 2026, 21:33:01	P2A1.mcppi
